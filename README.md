@@ -11,7 +11,7 @@ Escolhemos o framework Bootstrap:
 Bootstrap é um framework CSS que fornece classes e componentes prontos para facilitar a criação de páginas web. Ele segue uma abordagem baseada em componentes e classes reutilizáveis, além de oferecer um sistema de grid responsivo para adaptar o layout a diferentes tamanhos de tela.
 
 # A2. Como você incluiu o framework na página?
-Nosso grupo incluiu o Bootstrap 5.3.2 nas três páginas do projeto (index.html, servicos.html e contato.html) através de um CDN. No <head> foi adicionado o arquivo CSS e, no final do <body>, o arquivo JavaScript bootstrap.bundle.min.js. Depois utilizamos classes do Bootstrap como container, navbar, row, col-md-4, card, bg-primary e text-center para montar as páginas.
+Nosso grupo incluiu o Bootstrap 5.3.2 nas três páginas do projeto (index.html, servicos.html e contato.html) através de um CDN. No head foi adicionado o arquivo CSS e, no final do body o arquivo JavaScript bootstrap.bundle.min.js. Depois utilizamos classes do Bootstrap como container, navbar, row, col-md-4, card, bg-primary e text-center para montar as páginas.
 
 # A3. Cite três benefícios que você percebeu ao usar, não apenas os que o site do framework anuncia. 
 Um benefício que percebemos foi a facilidade para criar o menu de navegação sem precisar desenvolver todo o CSS manualmente. Também foi mais fácil criar um layout responsivo para os cards de serviços e mascotes usando row e col-md-4. Por último, as classes de espaçamento, cores e alinhamento, como py-5, my-5, mb-5 e text-center, permitiram organizar visualmente as páginas com pouco código.
